@@ -1,0 +1,19 @@
+{
+  "name": "zkp",
+  "version": "1.0.0",
+  "description": "Incremental Merkle tree and aggregated membership zkSNARK demo",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node scripts/demo.js",
+    "test": "echo \"No automated tests. Run 'npm run demo' for a sample pipeline.\""
+  },
+  "keywords": [
+    "merkle",
+    "zk-snark",
+    "circom",
+    "aggregated-proof"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
